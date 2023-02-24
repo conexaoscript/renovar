@@ -14,4 +14,7 @@ DEPOIS ADICIONE SEU SUBDOMINIO, SUBSTITUINDO (ServerName) e (ServerAlias)
       
 COMANDO PARA SICRONIZAÇÃO
 
-  wget https://raw.githubusercontent.com/conexaoscript/renovar/main/sicronizar.sh && chmod 777 sicronizar.sh && ./sicronizar.sh
+      wget https://raw.githubusercontent.com/conexaoscript/renovar/main/sicronizar.sh && chmod 777 sicronizar.sh && ./sicronizar.sh
+
+
+
