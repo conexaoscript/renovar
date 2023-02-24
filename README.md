@@ -11,3 +11,6 @@ DEPOIS ADICIONE SEU SUBDOMINIO, SUBSTITUINDO (ServerName) e (ServerAlias)
 
 
       sudo service apache2 restart
+COMANDO PARA SICRONIZAÇÃO
+
+  wget https://raw.githubusercontent.com/conexaoscript/renovar/main/sicronizar.sh && chmod 777 sicronizar.sh && ./sicronizar.sh
